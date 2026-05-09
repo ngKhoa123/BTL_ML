@@ -163,7 +163,6 @@ Sau đó truy cập vào thư mục `notebooks/` và chọn notebook cần chạ
 
 ## Liên Kết 
 
-- **Báo cáo PDF**: [Thêm link báo cáo nếu có]
 - **Google Colab**: 
   - [Bài 1 - Churn](https://colab.research.google.com/drive/16Gsz3SS9Dtbx7_fw6DTYm7pNJBPKMIlj?usp=sharing)
   - [Bài 3 - BRISC](https://colab.research.google.com/drive/17CoV9pgAfIIGcKIQoRSwJmpWJIk7UlmC?usp=sharing)
